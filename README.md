@@ -12,3 +12,7 @@
 | github | https://github.com/halo-dev |
 | 社区   | https://bbs.halo.run/       |
 
+# 标准中文电码
+
+https://apps.chasedream.com/chinese-commercial-code/
+
